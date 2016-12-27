@@ -10,3 +10,7 @@ A place to keep track of what I liked on the Internet - articles, posts, videos
 - **Trying my hands on Material Design** - https://material.io/
 
 - **My take on Employee Engagement** - https://www.linkedin.com/pulse/three-critical-drivers-employee-engagement-sunayana-singh?trk=mp-author-card
+
+- **Design and Front-End Development** - https://techcrunch.com/2016/11/29/the-future-of-front-end-development-is-design/
+
+- **Two sides of India's startup environment** - http://mashable.com/2016/11/03/a-tale-of-two-indias/?utm_cid=hp-n-1#hrsiPjPkqsqZ
