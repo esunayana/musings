@@ -14,3 +14,7 @@ A place to keep track of what I liked on the Internet - articles, posts, videos
 - **Design and Front-End Development** - https://techcrunch.com/2016/11/29/the-future-of-front-end-development-is-design/
 
 - **Two sides of India's startup environment** - http://mashable.com/2016/11/03/a-tale-of-two-indias/?utm_cid=hp-n-1#hrsiPjPkqsqZ
+
+- **Simon Sinek on Millenials in the workplace** - https://www.youtube.com/watch?v=hER0Qp6QJNU
+
+- **Tips to crack that PM interview** - https://www.linkedin.com/pulse/good-product-manager-series-how-find-one-punit-soni?trk=hp-feed-article-title-like
