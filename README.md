@@ -18,3 +18,5 @@ A place to keep track of what I liked on the Internet - articles, posts, videos
 - **Simon Sinek on Millenials in the workplace** - https://www.youtube.com/watch?v=hER0Qp6QJNU
 
 - **Tips to crack that PM interview** - https://www.linkedin.com/pulse/good-product-manager-series-how-find-one-punit-soni?trk=hp-feed-article-title-like
+
+- **These 15 startups didn't exist 5 years ago - now they're worth billions** - http://www.businessinsider.in/these-15-startups-didnt-exist-5-years-ago-now-theyre-worth-billions/articleshow/56187417.cms
