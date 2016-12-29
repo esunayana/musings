@@ -20,3 +20,5 @@ A place to keep track of what I liked on the Internet - articles, posts, videos
 - **Tips to crack that PM interview** - https://www.linkedin.com/pulse/good-product-manager-series-how-find-one-punit-soni?trk=hp-feed-article-title-like
 
 - **These 15 startups didn't exist 5 years ago - now they're worth billions** - http://www.businessinsider.in/these-15-startups-didnt-exist-5-years-ago-now-theyre-worth-billions/articleshow/56187417.cms
+
+- **For the political apetite** - https://www.linkedin.com/pulse/india2017-scary-year-ahead-we-return-era-state-control-raghav-bahl?trk=hp-feed-article-title-channel-add
